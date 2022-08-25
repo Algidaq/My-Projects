@@ -31,7 +31,7 @@ Google play: [Android app](https://play.google.com/store/apps/details?id=com.blu
 - Designed, and developed Deliveryman mobile application.
 - Developed a dashboard for managing operational, and accounting tasks.
 
-## Applications
+##
 
 - [Blush Mobile Application](./blush/readme.md).
 - [Blush landing page](https://blush-sd.com):
