@@ -34,33 +34,61 @@ Old application google play url: [Nasalbit](https://play.google.com/store/apps/d
 
 ## Application Rebranding screenshot
 
-<div style="display:inline-block">
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
 <h3>Account Login</h3>
 <img src="./assets/login.gif" alt="login" >
 </div>
-
-<div style="display:inline-block">
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
 <h3>Account Tabs Preview</h3>
 <img src="./assets/account-tabs.gif" alt="Account Tabs Preview" >
 </div>
-
-<div style="display:inline-block">
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
 <h3>Account Transfer </h3>
 <img src="./assets/account-transfer.gif" alt="Account Transfer" >
 </div>
-
-<div style="display:inline-block">
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
 <h3>Account Services </h3>
 <img src="./assets/services-tab.gif" alt="Account Transfer" >
 </div>
-
-
-
-
-<div style="display:inline-block">
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
 <h3>Favorite Management & Settings </h3>
-<img src="./assets/settings.gif" alt="Account Transfer" >
+<img src="./assets/settings.gif" alt="Account Transfer">
 </div>
+
 
 ## Card Services Screens 
 
+
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card User Registeration </h3>
+<img src="./assets/card-signup.gif" alt="Account Transfer">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card User Login </h3>
+<img src="./assets/card-login.gif" alt="Account Transfer">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card Main Preview </h3>
+<img src="./assets/card-preview.gif" alt="Card Preview">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card Balance Inquery </h3>
+<img src="./assets/balance-inquiry.gif" alt="Card Services">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card Services </h3>
+<img src="./assets/card-services.gif" alt="Card Services">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Transaction History</h3>
+<img src="./assets/transaction-history.gif" alt="Card Services">
+</div>
+
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<h3>Card Favorite</h3>
+<img src="./assets/card-fav-1.gif" alt="Card Services">
+</div>
+<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+
+<img src="./assets/card-fav2.gif" alt="Card Services">
+</div>
