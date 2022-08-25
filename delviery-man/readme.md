@@ -30,24 +30,24 @@ An internal application for delivery man to display their assigned orders by ope
 
 ## Application Screens
 
-<div style="display:inline-block;max-width:300px !important;margin:8px 8px;">
+<div style="display:inline-block;width:300px !important;margin:8px 8px;">
 <h3>Login Screen </h3>
 <img src="./assets/login.gif" alt="Login Screen">
 </div>
-<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<div style="display:inline-block;width:300px;margin:8px 8px;">
 <h3>Reports View </h3>
 <img src="./assets/reports.gif" alt="Reports Screen">
 </div>
-<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<div style="display:inline-block;width:300px;margin:8px 8px;">
 <h3>Report Details </h3>
 <img src="./assets/reports-details.gif" alt="Reports Screen">
 </div>
 
-<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<div style="display:inline-block;width:300px;margin:8px 8px;">
 <h3>Order Details </h3>
 <img src="./assets/order-detail-1.gif" alt="Reports Screen">
 </div>
-<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<div style="display:inline-block;width:300px;margin:8px 8px;">
 
 <img src="./assets/order-detail-2.gif" alt="Reports Screen">
 </div>
