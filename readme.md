@@ -39,3 +39,4 @@ Google play: [Android app](https://play.google.com/store/apps/details?id=com.blu
   - Tech stack:
        -  Angular.
 - [Deliveryman mobile application](delviery-man/readme.md)
+- [Blush Dashboard](blush-dashboard/readme.md)
