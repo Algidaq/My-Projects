@@ -38,5 +38,5 @@ Google play: [Android app](https://play.google.com/store/apps/details?id=com.blu
   - Designed and developed company landing page.
   - Tech stack:
        -  Angular.
-- [Deliveryman mobile application](delviery-man/readme.md)
+- [Deliveryman mobile application](delviery-man)
 - [Blush Dashboard](blush-dashboard/readme.md)
