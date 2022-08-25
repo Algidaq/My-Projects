@@ -30,7 +30,7 @@ An internal application for delivery man to display their assigned orders by ope
 
 ## Application Screens
 
-<div style="display:inline-block;max-width:300px;margin:8px 8px;">
+<div style="display:inline-block;max-width:300px !important;margin:8px 8px;">
 <h3>Login Screen </h3>
 <img src="./assets/login.gif" alt="Login Screen">
 </div>
