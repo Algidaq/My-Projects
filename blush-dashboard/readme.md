@@ -9,6 +9,7 @@ It’s an operational, accounting, and managerial dashboard for managing orders,
 
 ## Tech stack
 
+<p float="left">
 <img src="../svgs/ts.svg">
 <img src="../svgs/nodejs.svg">
 <img src="../svgs/express.svg">
@@ -16,6 +17,7 @@ It’s an operational, accounting, and managerial dashboard for managing orders,
 <img src="../svgs/js.svg">
 <img src="../svgs/react.svg">
 <img src="../svgs/mui.svg">
+</p>
 
 
 - Backend and API Development:
