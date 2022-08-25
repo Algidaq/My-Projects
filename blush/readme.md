@@ -15,9 +15,11 @@ Google play: [Android app](https://play.google.com/store/apps/details?id=com.blu
 ## Tech stack
 
 
+<p float="left">
 <img src="../svgs/flutter.svg">
 <img src="../svgs/dart.svg">
  <img style="margin-left:10px" src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" height="56" height="56"  alt="Bloc"><img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" width="100" height="56" style="margin-left:10px">
+ </p>
 
 
 - Flutter and dart for mobile application.
