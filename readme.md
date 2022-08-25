@@ -4,13 +4,13 @@ This document contains detailed information about Projects I've worked on and th
 
 ## [AzTechology](https://aztech-sd.com)
 
-    Company for developing e-banking and financial services applications.
-        - Role as Senior Mobile application developer.
+Company for developing e-banking and financial services applications.
+- Role as Senior Mobile application developer.
 
 ## Applications
 
-- [JB Mobile Application](JB-Bank/readme.md)
-- [Nasalbit Mobile application](Nasalbit/readme.md)
+- [JB Mobile Application](JB-Bank)
+- [Nasalbit Mobile application](Nasalbit)
 - Az_Consumer Package:
   - is an internal package developed to help speed up the process of developing an e-banking mobile apps.
   - This package handles all credit card services that are provided by EBS (Sudan Electronic Banking).
@@ -33,10 +33,10 @@ Google play: [Android app](https://play.google.com/store/apps/details?id=com.blu
 
 ##
 
-- [Blush Mobile Application](./blush/readme.md).
+- [Blush Mobile Application](./blush).
 - [Blush landing page](https://blush-sd.com):
   - Designed and developed company landing page.
   - Tech stack:
        -  Angular.
 - [Deliveryman mobile application](delviery-man)
-- [Blush Dashboard](blush-dashboard/readme.md)
+- [Blush Dashboard](blush-dashboard)
