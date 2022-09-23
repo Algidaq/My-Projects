@@ -1,7 +1,8 @@
 # Nasalbait
 
  Farmers commercial bank mobile application. application is under development.
-New Application url:
+ 
+ 
 Old application google play url: [Nasalbit](https://play.google.com/store/apps/details?id=com.fcb.mobile)
 
 ## Contribution
